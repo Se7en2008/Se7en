@@ -1,5 +1,4 @@
-### Olá 👋
-
-- 💁‍♂️ você pode me chamar de Se7en
-- 🌿 Tentando criar um bot reconhecido no Discord
-- 📑 Node.js
+- 👋 Hi! I'm Se7en 🍃 🇧🇷
+- 🌿 I love coffee ☕
+- 🌻 hobby - Animes 🍥
+- 🍰 Birthday - 04/02 🍂
